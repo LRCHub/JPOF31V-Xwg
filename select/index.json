@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Saturday in the Park (2002 Remaster)",
+  "base_artist": "Chicago",
+  "createdAt": "2026-02-07T18:42:13.249241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Saturday In The Park",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/01_Saturday_In_The_Park_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Saturday In The Park",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/02_Saturday_In_The_Park_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Saturday in the Park",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/03_Saturday_in_the_Park_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Saturday in the Park",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/04_Saturday_in_the_Park_Chicago.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Saturday in the Park",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/05_Saturday_in_the_Park_Chicago.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saturday in the Park",
+      "artist": "Chicago",
+      "has_synced": true,
+      "path": "select/06_Saturday_in_the_Park_Chicago.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Saturday In the Park",
+      "artist": "Chicago",
+      "has_synced": false,
+      "path": "select/pl_01_Saturday_In_the_Park_Chicago.txt"
+    }
+  ]
+}
